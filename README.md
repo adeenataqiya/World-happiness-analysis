@@ -20,12 +20,21 @@ Dataset
 World Happiness Report 2018
 
 Visualizations
+
 Histogram
+
 Boxplot
+
 Scatter Plot
+
 piechart
-line plot 6.Heatmap
+
+line plot
+
+Heatmap
+
 Key Insights
+
 1.Finland is the happiest country in the dataset.
 
 2.Countries with higher GDP generally have higher happiness scores.
