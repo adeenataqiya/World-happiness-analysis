@@ -4,12 +4,19 @@ Objective
 Analyze the World Happiness Report 2018 dataset and identify factors affecting happiness.
 
 Tools Used
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Dataset
+
 World Happiness Report 2018
 
 Visualizations
